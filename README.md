@@ -1,7 +1,7 @@
 ## Olá! Eu sou Gustavo Falcione
 
-- 🔭 Desenvolvedor front-end
-- 🌱 Estudando e atuando com React, Angular e TypeScript, NodeJs, NextJs.
+- 🔭 Full Stack Developer
+- 🌱 Estudando e atuando com React, Angular e TypeScript, NodeJs, NextJs e Go.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
